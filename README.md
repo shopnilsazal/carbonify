@@ -2,9 +2,9 @@
 
 ![Carbonify Logo](https://raw.githubusercontent.com/shopnilsazal/carbonify/master/icon-128.png)
 
-### Carbonify gist when you browse them.
+### A Chrome extension to Carbonify gist when you browse them.
 
-This extension will add "Carbonify" button to a gist. If you click the "Carbonify" button, gist's code snippet will open in https://carbon.now.sh/ in a new tab.
+This Chrome extension will add "Carbonify" button to a gist. If you click the "Carbonify" button, gist's code snippet will open in https://carbon.now.sh/ in a new tab.
 
 [Download](https://raw.githubusercontent.com/shopnilsazal/carbonify/master/carbonify.crx) the extension.
 
