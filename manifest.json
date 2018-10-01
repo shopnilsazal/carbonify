@@ -1,0 +1,17 @@
+{
+  "name": "Carbonify",
+  "description": "Carbonify gist when you browse them.",
+  "content_scripts": [
+    {
+      "matches": ["https://gist.github.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "128": "icon-128.png",
+    "64": "icon-64.png"
+  },
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}
